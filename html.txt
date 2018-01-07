@@ -170,7 +170,7 @@
       
         <div class="col-2 col-m-12">
           <div class="frames">
-           <p class="sta">Kierownik</p>
+           <p class="sta">Pierdolnik</p>
            <p class="imie">Jan Kowalski</p>
           </div>  
         </div>
