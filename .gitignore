@@ -1,2 +1,3 @@
 2.txt
-bin
+/bin/*
+!/bin/c
