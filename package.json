@@ -1,0 +1,19 @@
+{
+  "name": "kodilla-pawel",
+  "version": "1.0.0",
+  "description": "projekt grunt",
+  "main": "gruntfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^2.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  },
+  "scripts": {
+    "test": "grunt-kodilla"
+  },
+  "author": "Paweł",
+  "license": "ISC",
+  "keywords": []
+}
